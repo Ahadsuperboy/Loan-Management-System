@@ -1,0 +1,3 @@
+UMAR20210,LoanType:Education, Paid Amount:193.75RM, Total Installment:23250.0RM, Remaining:23056.25RM, Loan Length:10 Years
+ALI3205, LoanType:Car, Paid Amount:333.5RM, Down Payment:4000RM Total Installment:21672.0RM, Remaining:17338.5RM, Loan Length:6 Years
+ARVD07, LoanType:Home, Paid Amount:2336.80RM, Total Installment:420625.0RM, Remaining:418288.2RM, Loan Length:15 Years

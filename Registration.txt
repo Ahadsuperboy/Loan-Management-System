@@ -1,0 +1,5 @@
+UMAR ALI,Pavilion Residence,umarali20210@gmail.com,0104658224,MALE,06/10/1980,Student,Education LOAN,10 Years,15000,UMAR20210,penangbeach,penangbeach
+MOHAMMAD ALI,The Park Sky Residence,alimohammad3205@gmail.com,0132244234,MALE,05/04/1980,CAR LOAN,6 YEARS,20000,ALIMOHAMMAD3205,Malaysiaisgreat,Malaysiaisgreat
+ARVIND,The Fortune Park,arvindapu@gmail.com,0144523213,MALE,2003-05-06,HOME,15 Years,250000,ARVD07,Klbest,Klbest
+ABDUL AHAD,Parkhill Residence,ahadsuperboy@gmail.com,0146974028,MALE,2000-07-01,EDUCATION,7,20000,AHAD1234,Apu,Apu
+

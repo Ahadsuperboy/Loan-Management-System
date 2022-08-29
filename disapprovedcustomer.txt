@@ -1,0 +1,3 @@
+DisApprove Customer1: ABDUL AHAD,Parkhill Residence,ahadsuperboy@gmail.com,0146974028,MALE,2000-07-01,EDUCATION,7,20000,AHAD1234,Apu,Apu
+
+DisApprove Customer1: MOHAMMAD ALI,The Park Sky Residence,alimohammad3205@gmail.com,0132244234,MALE,05/04/1980,CAR LOAN,6 YEARS,20000,ALIMOHAMMAD3205,Malaysiaisgreat,Malaysiaisgreat

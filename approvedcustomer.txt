@@ -1,0 +1,5 @@
+Approve Customer1: UMAR ALI,Pavilion Residence,umarali20210@gmail.com,0104658224,MALE,06/10/1980,Student,Education LOAN,10 Years,15000,UMAR20210,penangbeach,penangbeach
+57217674 2021-05-22 (193.75, 23250.0) RM
+Approve Customer2: MOHAMMAD ALI,The Park Sky Residence,alimohammad3205@gmail.com,0132244234,MALE,05/04/1980,CAR LOAN,6 YEARS,20000,ALIMOHAMMAD3205,Malaysiaisgreat,Malaysiaisgreat
+37961850 2021-10-20 (301.0, 21672.0) RM
+Approve Customer3: ARVIND,The Fortune Park,arvindapu@gmail.com,0144523213,MALE,2003-05-06,HOME,15 Years,250000,ARVD07,Klbest,Klbest 72189874 2021-07-28 (2336.80, 420625.0) RM

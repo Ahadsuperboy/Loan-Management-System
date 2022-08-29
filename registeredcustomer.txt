@@ -1,0 +1,3 @@
+UMAR ALI, PavilionResidence ,umarali20210@gmail.com , 0104658224, MALE, 06/10/1980, Education LOAN, 10 Years, 15000,UMAR20210, penangbeach, penangbeach, 80811728, 2021-08-22, 193.75 RM
+MOHAMMAD ALI, TheParkSkyResidence ,alimohammad3205@gmail.com , 0132244234, MALE, 05/04/1980, CAR LOAN, 6 YEARS, 20000,ALIMOHAMMAD3205, Malaysiaisgreat, Malaysiaisgreat, 63235739, 2021-11-25, 301.0 RM
+ARVIND, TheFortunePark, arvindapu@gmail.com, 0144523213, MALE, 2003-05-06, HOME LOAN,15 Years, 250000,ARVD07, Klbest, Klbest, 72189874, 2021-07-28, 2336.80 RM
